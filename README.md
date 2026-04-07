@@ -6,12 +6,16 @@ Data obtained from We Act QuantAQ dashboard
 ### 2. Code
 Folder containing code used for each sensor
 
-##### MOD-XXXX NMF.ipynb: Initial cleaning and NMF on raw sensor data
-##### MOD-XXXX NMF Timeseries Figures: Checkpoint for distribution of data
-##### MOD-XXXX NMF CV w Max Abs: NMF Cross validation using MSE
-##### MOD-XXXX NMF factors barcharts: Barcharts using number of factors from CV
-##### MOD-XXXX NMF Wind Rose: Wind rose figures using number of factors from CV
+- MOD-XXXX NMF.ipynb: Initial cleaning and NMF on raw sensor data
+- MOD-XXXX NMF Timeseries Figures: Checkpoint for distribution of data
+- MOD-XXXX NMF CV w Max Abs: NMF Cross validation using MSE
+- MOD-XXXX NMF factors barcharts: Barcharts using number of factors from CV
+- MOD-XXXX NMF Wind Rose: Wind rose figures using number of factors from CV
 ### 3. Figures
 Figures generated from code output
+- Time series bar chart
+- Diurnal Figure
+- Windrose
+#### Interactive Map: https://we-act-capstone.github.io/weact_cumsph_nmf/figures/WEACT_AQ_Sensors.html
 ### 4. Other Stuff
 nnls used for MOD-XXXX NMF CV w Max Abs: NMF Cross validation using MSE
