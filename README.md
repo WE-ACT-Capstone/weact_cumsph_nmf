@@ -2,7 +2,7 @@
 #### Work in progress by Caiola, M., Carlin, A., Madhure, N., Shah, M.
 #### In collaboration with WE ACT for Environmental Justice, Dan Westervelt, and Polina Mira Goldberg
 ### 1. Data
-Folder containing .csv data used in analysis
+Data obtained from We Act QuantAQ dashboard
 ### 2. Code
 Folder containing code used for each sensor
 
