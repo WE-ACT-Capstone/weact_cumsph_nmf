@@ -8,7 +8,7 @@ Folder containing code used for each sensor
 
 - MOD-XXXX NMF.ipynb: Initial cleaning and NMF on raw sensor data
 - MOD-XXXX NMF Timeseries Figures: Checkpoint for distribution of data
-- MOD-XXXX NMF CV w Max Abs: NMF Cross validation using MSE
+- MOD-XXXX NMF CV w Max Abs: NMF Cross validation using mean squared error (MSE)
 - MOD-XXXX NMF factors barcharts: Barcharts using number of factors from CV
 - MOD-XXXX NMF Wind Rose: Wind rose figures using number of factors from CV
 ### 3. Figures
