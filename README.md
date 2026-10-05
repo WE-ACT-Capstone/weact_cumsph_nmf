@@ -1,5 +1,5 @@
 # Democratizing Air Quality Data: High-Resolution Source Apportionment in Northern Manhattan
-#### by Carlin, A., Caiola, M., Madhure, N., Shah, M., Westervelt D., Goldberg P., Jack, D., Vanderselt, J., & Rojas, V.
+#### Carlin, A., Caiola, M., Madhure, N., Shah, M., Westervelt D., Goldberg P., Jack, D., Vanderselt, J., & Rojas, V.
 #### In collaboration with WE ACT for Environmental Justice
 ### 1. Data
 Data obtained from We Act QuantAQ dashboard
