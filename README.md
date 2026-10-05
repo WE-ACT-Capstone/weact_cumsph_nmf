@@ -1,6 +1,6 @@
-# Columbia Mailman School of Public Health 2026 Capstone Project
-#### Work in progress by Caiola, M., Carlin, A., Madhure, N., Shah, M.
-#### In collaboration with WE ACT for Environmental Justice, Dan Westervelt, and Polina Mira Goldberg
+# Democratizing Air Quality Data: High-Resolution Source Apportionment in Northern Manhattan
+#### by Carlin, A., Caiola, M., Madhure, N., Shah, M., Westervelt D., Goldberg P., Jack, D., Vanderselt, J., & Rojas, V.
+#### In collaboration with WE ACT for Environmental Justice
 ### 1. Data
 Data obtained from We Act QuantAQ dashboard
 ### 2. Code
