@@ -16,6 +16,5 @@ Figures generated from code output
 - Time series bar chart
 - Diurnal Figure
 - Windrose
-#### Interactive Map: https://we-act-capstone.github.io/weact_cumsph_nmf/figures/WEACT_AQ_Sensors.html
 ### 4. Other Stuff
 nnls used for MOD-XXXX NMF CV w Max Abs: NMF Cross validation using MSE
