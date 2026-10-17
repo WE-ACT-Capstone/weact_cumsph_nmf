@@ -1,6 +1,6 @@
-# Democratizing Air Quality Data: High-Resolution Source Apportionment in Northern Manhattan
+# Community Air Monitoring in Northern Manhattan: Exploratory Source Characterization Using Non-Negative Matrix Factorization
 #### Carlin, A., Caiola, M., Madhure, N., Shah, M., Westervelt, D., Goldberg, P., Jack, D., Vanderselt, J., & Rojas, V.
-#### In collaboration with WE ACT for Environmental Justice
+#### Led by WE ACT for Environmental Justice
 ### 1. Data
 Data obtained from We Act QuantAQ dashboard
 ### 2. Code
