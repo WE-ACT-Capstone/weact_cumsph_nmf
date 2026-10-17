@@ -3,7 +3,7 @@
 #### Led by WE ACT for Environmental Justice
 ### 1. Data
 Data obtained from We Act QuantAQ dashboard
-### 2. Code
+### 2. Code & Figures
 Folder containing code used for each sensor
 
 - MOD-XXXX NMF.ipynb: Initial cleaning and NMF on raw sensor data
@@ -11,10 +11,5 @@ Folder containing code used for each sensor
 - MOD-XXXX NMF CV w Max Abs: NMF Cross validation using mean squared error (MSE)
 - MOD-XXXX NMF factors barcharts: Barcharts using number of factors from CV
 - MOD-XXXX NMF Wind Rose: Wind rose figures using number of factors from CV
-### 3. Figures
-Figures generated from code output
-- Time series bar chart
-- Diurnal Figure
-- Windrose
-### 4. Other Stuff
+### 3. Other Stuff
 nnls used for MOD-XXXX NMF CV w Max Abs: NMF Cross validation using MSE
